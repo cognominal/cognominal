@@ -3,7 +3,7 @@
 I want to eventually port the raku [grammar engine](https://docs.raku.org/language/grammars) to wasm and support the [LSP](https://microsoft.github.io/language-server-protocol/) for the languages developped using this grammar.
 Adapting rust regex engine seems the most promising way except I have to learn rust. I will probably document my progress using a kanban on notion.
 Also I have many notes that I will consolidate there.
-Supporting a treesitter will necessitates to snapshot compilation of compunit to restart from any snapshot
+Supporting a treesitter will necessitate to snapshot the compilation of compunits, so as to restart from any snapshot.
 An early work for a treesitter for raku is [hamt](https://github.com/cognominal/hamt-for-raku-moarvm).
 
 To leverage this putative engine, tentatively called `slangs`, 
