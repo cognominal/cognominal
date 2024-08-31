@@ -10,7 +10,7 @@ To leverage this putative engine, tentatively called `slangs`,
 I try to get some proficiency in all things web with a focus on the modern web which is a daunting stack. At least I have now a clear
 view of what I want to know :
 
-*  [svelte 5](https://svelte-5-preview.vercel.app/docs/introduction)
+*  [svelte 5](https://svelte-5-preview.vercel.app/docs/introduction)/[sveltekit](https://kit.svelte.dev/)
 *  the [BETH](https://stackademic.com/blog/beth-a-modern-stack-for-the-modern-web) stack. More modest than svelte with a different focus.
 *  [stackblitz](https://stackblitz.com/)
 *  [flowbite](https://flowbite-svelte.com/)
