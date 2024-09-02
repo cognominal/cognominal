@@ -18,6 +18,8 @@ view of what I want to know :
 
  Various repository will embody my progress.
 
+ Also I learn various tool to organize myself : [arc](https://arc.net/) to organize my browsing, [notion](https://www.notion.so/) to organize notes and projects, [whimsical](https://whimsical.com/)  as a mind mapping and design tool.©
+
 <!--
 **cognominal/cognominal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
