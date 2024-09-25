@@ -10,11 +10,12 @@ To leverage this putative engine, tentatively called `slangs`,
 I try to get some proficiency in all things web with a focus on the modern web which is a daunting stack given my current level. At least I have now a clear
 view of what I want to know :
 
-*  [svelte 5](https://svelte-5-preview.vercel.app/docs/introduction)/[sveltekit](https://kit.svelte.dev/)
-*  the [BETH](https://stackademic.com/blog/beth-a-modern-stack-for-the-modern-web) stack. More modest than svelte with a different focus.
-*  [stackblitz](https://stackblitz.com/)
-*  [flowbite](https://flowbite-svelte.com/)
-*  [tailwindcss](https://tailwindcss.com/)
+*  web frameworks 
+    * [svelte 5](https://svelte-5-preview.vercel.app/docs/introduction)/[sveltekit](https://kit.svelte.dev/)
+    *  the [BETH](https://stackademic.com/blog/beth-a-modern-stack-for-the-modern-web) stack. More modest than svelte with a different focus.
+*  doing server side stuff client side to do complete demos : [stackblitz](https://stackblitz.com/)
+*  components: [daisyui](https://daisyui.com/), [svelte-shadcn](https://www.shadcn-svelte.com/)
+*  styling : [tailwindcss](https://tailwindcss.com/)
 
  Various repository will embody my progress.
 
