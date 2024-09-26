@@ -17,9 +17,10 @@ view of what I want to know :
 *  components: [daisyui](https://daisyui.com/), [svelte-shadcn](https://www.shadcn-svelte.com/)
 *  styling : [tailwindcss](https://tailwindcss.com/)
 
- Various repository will embody my progress.
+ Various repository will embody my progress using sideprojects focusing on specific technologies.
 
- Also I learn various tool to organize myself : [arc](https://arc.net/) to organize my browsing, [notion](https://www.notion.so/) to organize notes and projects, [whimsical](https://whimsical.com/)  as a mind mapping and design tool.
+ Also I learn various tool to organize myself on my macbook : 
+ [raycast](https://en.wikipedia.org/wiki/Raycast_(software)) a kitchen sink app switcher, [arc](https://arc.net/) to organize my browsing, [notion](https://www.notion.so/) to organize notes and projects, [whimsical](https://whimsical.com/)  as a mind mapping and design tool.
 
 <!--
 **cognominal/cognominal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
