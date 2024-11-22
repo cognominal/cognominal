@@ -22,6 +22,8 @@ view of what I want to know :
  Also I learn various tool to organize myself on my macbook : 
  [raycast](https://en.wikipedia.org/wiki/Raycast_(software)) a kitchen sink app switcher, [arc](https://arc.net/) to organize my browsing, [notion](https://www.notion.so/) to organize notes and projects, [whimsical](https://whimsical.com/)  as a mind mapping and design tool.
 
+ I changed my plan. Instead of doing a grammar engine. I want to do the polar opposite, doing sructural editing that update the AST and `unparse` the AST
+ into a rich surfaace representation. I will use a modified svelte.dev to bootstrap
 <!--
 **cognominal/cognominal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
