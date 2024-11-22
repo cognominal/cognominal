@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+* [Go to New Plan](#new-plan)
+
 I want to eventually port the raku [grammar engine](https://docs.raku.org/language/grammars) to wasm and support the [LSP](https://microsoft.github.io/language-server-protocol/) for the languages developped using this grammar.
 Adapting rust regex engine seems the most promising way except I have to learn rust. I will probably document my progress using a kanban on notion.
 Also I have many notes that I will consolidate there.
@@ -22,8 +24,11 @@ view of what I want to know :
  Also I learn various tool to organize myself on my macbook : 
  [raycast](https://en.wikipedia.org/wiki/Raycast_(software)) a kitchen sink app switcher, [arc](https://arc.net/) to organize my browsing, [notion](https://www.notion.so/) to organize notes and projects, [whimsical](https://whimsical.com/)  as a mind mapping and design tool.
 
+ ## New plan
+
  I changed my plan. Instead of doing a grammar engine. I want to do the polar opposite, doing sructural editing that update the AST and `unparse` the AST
- into a rich surfaace representation. I will use a modified svelte.dev to bootstrap
+ into a rich surface representation. I will use a modified [svelte.dev](https://github.com/cognominal/svelte/tree/better-ast-view) to bootstrap the project.
+ The blurb is [here](https://github.com/cognominal/svelte/blob/better-ast-view/Lush.md)
 <!--
 **cognominal/cognominal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
