@@ -24,9 +24,9 @@ but chainging view of what I know and want to know :
 *  styling : [tailwindcss](https://tailwindcss.com/)
 *  [TUI](https://en.wikipedia.org/wiki/Text-based_user_interface): [neovim](https://en.wikipedia.org/wiki/Vim_(text_editor)#Neovim), [charm tools](https://charm.land/) including [crush](https://github.com/charmbracelet/crush) the TUI AI interface.
 *  I am moving my M2 laptop to [omarchy](https://omarchy.org/), which uses [hyprland](https://hypr.land/). I do so using a variant of [asahi](https://asahilinux.org/), with [asahi-alarm](https://asahi-alarm.org/) which is [arch](https://archlinux.org/) based instead of [fedora](https://fedoraproject.org/) based  but I have to do it semi manually because the omarchy install script is intel dependant.
-*  tty multiplexer : [zellij](https://zellij.dev/) a node to [islamic art](https://en.wikipedia.org/wiki/Zellij).
+*  tty multiplexer : [zellij](https://zellij.dev/) a nod to [islamic art](https://en.wikipedia.org/wiki/Zellij).
 
- Various repository will embody my progress using sideprojects focusing on specific technologies.
+ Various repositories will embody my progress using sideprojects focusing on specific technologies.
 
  Also I learn various tool to organize myself on my macbook : 
  [raycast](https://en.wikipedia.org/wiki/Raycast_(software)) a kitchen sink app switcher, [arc](https://arc.net/) to organize my browsing, [notion](https://www.notion.so/) to organize notes and projects, [whimsical](https://whimsical.com/)  as a mind mapping and design tool.
