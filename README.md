@@ -14,15 +14,17 @@ Supporting a [treesitter](https://tree-sitter.github.io/tree-sitter/) will neces
 An early work for a treesitter for raku is [hamt](https://github.com/cognominal/hamt-for-raku-moarvm).
 
 To leverage this putative engine, tentatively called `slangs`, 
-I try to get some proficiency in all things web with a focus on the modern web which is a daunting stack given my current level. At least I have now a clear
-view of what I want to know :
+I try to get some proficiency in all things web with a focus on the modern web which is a daunting stack given my current level. At least I have now a better
+but chainging view of what I know and want to know :
 
 *  web frameworks 
     * [svelte 5](https://svelte-5-preview.vercel.app/docs/introduction)/[sveltekit](https://kit.svelte.dev/)
-    *  the [BETH](https://stackademic.com/blog/beth-a-modern-stack-for-the-modern-web) stack. More modest than svelte with a different focus.
 *  doing server side stuff client side to do complete demos : [stackblitz](https://stackblitz.com/)
 *  components: [daisyui](https://daisyui.com/), [svelte-shadcn](https://www.shadcn-svelte.com/)
 *  styling : [tailwindcss](https://tailwindcss.com/)
+*  [TUI](https://en.wikipedia.org/wiki/Text-based_user_interface): [neovim](https://en.wikipedia.org/wiki/Vim_(text_editor)#Neovim), [charm tools](https://charm.land/) including [crush](https://github.com/charmbracelet/crush) the TUI AI interface.
+*  I am moving my M2 laptop to [omarchy](https://omarchy.org/), which uses [hyprland](https://hypr.land/). I do so using a variant of [asahi](https://asahilinux.org/), with [asahi-alarm](https://asahi-alarm.org/) which is [arch](https://archlinux.org/) based instead of [fedora](https://fedoraproject.org/) based  but I have to do it semi manually because the omarchy install script is intel dependant.
+*  tty multiplexer : [zellij](https://zellij.dev/) a node to [islamic art](https://en.wikipedia.org/wiki/Zellij).
 
  Various repository will embody my progress using sideprojects focusing on specific technologies.
 
