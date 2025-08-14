@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cognominal)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/cognominal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cognominal&theme=ayu-mirage&hide=css,html,markdown&langs_count=5" />
 
 * [Go to New Plan](#new-plan)
 
