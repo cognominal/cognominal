@@ -29,7 +29,7 @@ but chainging view of what I know and want to know :
  Various repositories will embody my progress using sideprojects focusing on specific technologies.
 
  Also I learn various tool to organize myself on my macbook : 
- [raycast](https://en.wikipedia.org/wiki/Raycast_(software)) a kitchen sink app switcher, [arc](https://arc.net/) to organize my browsing, [notion](https://www.notion.so/) to organize notes and projects, [whimsical](https://whimsical.com/)  as a mind mapping and design tool.
+ [raycast](https://en.wikipedia.org/wiki/Raycast_(software)) a kitchen sink app switcher, [zen](https://zen-browser.app/) to organize my browsing, [brave](https://brave.com/) to avoid obnoxious ads on youtube, [notion](https://www.notion.so/) to organize notes and projects, [whimsical](https://whimsical.com/)  as a mind mapping and design tool.
 
  ## New master plan
 
