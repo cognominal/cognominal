@@ -23,7 +23,7 @@ but chainging view of what I know and want to know :
 *  components: [daisyui](https://daisyui.com/), [svelte-shadcn](https://www.shadcn-svelte.com/)
 *  styling : [tailwindcss](https://tailwindcss.com/)
 *  [TUI](https://en.wikipedia.org/wiki/Text-based_user_interface): [neovim](https://en.wikipedia.org/wiki/Vim_(text_editor)#Neovim), [lazygit](https://github.com/jesseduffield/lazygit), [charm tools](https://charm.land/) including [crush](https://github.com/charmbracelet/crush) the TUI AI interface.
-*  I am moving my M2 laptop to [omarchy](https://omarchy.org/), which uses [hyprland](https://hypr.land/). I do so using a variant of [asahi](https://asahilinux.org/), with [asahi-alarm](https://asahi-alarm.org/) which is [arch](https://archlinux.org/) based instead of [fedora](https://fedoraproject.org/) based  but I have to do it semi manually because the omarchy install script is intel dependant.
+*  I am moving my M2 laptop to [omarchy](https://omarchy.org/), which uses [hyprland](https://hypr.land/). I do so using a variant of [asahi](https://asahilinux.org/), with [asahi-alarm](https://asahi-alarm.org/) which is [arch](https://archlinux.org/) based instead of [fedora](https://fedoraproject.org/) based  but I have to do it semi manually because the omarchy install script is intel dependant. That means forfeiting [raycast](https://www.raycast.com/).
 *  tty multiplexer : [zellij](https://zellij.dev/) a nod to [islamic art](https://en.wikipedia.org/wiki/Zellij).
 
  Various repositories will embody my progress using sideprojects focusing on specific technologies.
