@@ -29,11 +29,13 @@ view of what I want to know :
  Also I learn various tool to organize myself on my macbook : 
  [raycast](https://en.wikipedia.org/wiki/Raycast_(software)) a kitchen sink app switcher, [arc](https://arc.net/) to organize my browsing, [notion](https://www.notion.so/) to organize notes and projects, [whimsical](https://whimsical.com/)  as a mind mapping and design tool.
 
- ## New plan
+ ## New master plan
 
- I changed my plan. Instead of doing a grammar engine. I want to do the polar opposite, doing sructural editing that update the AST and `unparse` the AST
- into a rich surface representation. I will use a modified [svelte.dev](https://github.com/cognominal/svelte/tree/better-ast-view) to bootstrap the project.
- The blurb is [here](https://github.com/cognominal/svelte/blob/better-ast-view/Lush.md)
+ I changed my plan. Twice. 
+ 
+ - Instead of doing a grammar engine, inspired by svelte that extends the acorn AST, I want to do the polar opposite, doing sructural editing that update the AST and `unparse` the AST into a rich surface representation. I will use a modified [svelte.dev]. So the use of codemirror. I had even a beginning of a site at [slangs](https://slangs.vercel.app/) to learn about svelte and tailwindcss.
+ - TUIs are the way to go fast. So I got into the neovim ecosystem. My story: 3 years of vi, 30 years of emacs, various attempts with textmate,atom... 5 years of vscode, 2 weeks of neovim and going.
+
 <!--
 **cognominal/cognominal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
