@@ -48,7 +48,7 @@ but chainging view of what I know and want to know :
  
  - Instead of doing a grammar engine, inspired by svelte that extends the acorn AST, I want to do the polar opposite, doing sructural editing that update the AST and `unparse` the AST into a rich surface representation. I will use a modified [svelte](https://svelte.dev). So the use of codemirror. I had even a beginning of a site at [slangs](https://slangs.vercel.app/) to learn about svelte and tailwindcss.
  - TUIs are the way to go fast. So I got into the neovim ecosystem. My story: 3 years of vi, 30 years of emacs, various attempts with textmate,atom... 5 years of vscode, 1 month (at 09/2025) of [neovim](https://neovim.io/) with [Lazyvim](https://www.lazyvim.org/)  and going.
-   This is getting at last concrete with [lush](https://github.com/cognominal/cognominal/) an interactive shell that run on nodejs. Not much to see yet, so not pinned. At last, coding with AI is not
+   I hope to boostrap my plan with [lush](https://github.com/cognominal/lush) an interactive shell powered by [bun](https://bun.com/) . Not much to see yet, so not pinned. At last, coding with AI is not
    a waste of time. I use [codex](https://developers.openai.com/codex/cli) within a nvim popup thx to the plugin [codex.nvim](https://github.com/johnseth97/codex.nvim) 
 
 <!--
