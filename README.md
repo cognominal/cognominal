@@ -5,6 +5,17 @@
 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cognominal&theme=ayu-mirage&hide=css,html,markdown&langs_count=5" />
 
+### OSS Insight
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=8683947" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=16176&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @cognominal" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=16176&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>  
+
 * [Go to New Plan](#new-plan)
 
 I want to eventually port the raku [grammar engine](https://docs.raku.org/language/grammars) to wasm and support the [LSP](https://microsoft.github.io/language-server-protocol/) for the languages developped using this grammar.
