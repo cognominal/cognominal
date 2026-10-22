@@ -5,6 +5,7 @@
 - 💿 Linux distro :  [omarchy](https://omarchy.org/).
 - 💻 Terminal : [tuios](https://tuios.dev/) an agent aware terminal multiplexer.
 - 📝 Editor : [lazyvim](https://lazyvim-ambitious-devs.phillips.codes/).
-- 🧠 AI model : [deepseek flash](https://www.deepseek.com/en/news/deepseek-v4-1-flash/).
-- 🏎️ ...accessed with [openrouter](https://openrouter.ai/).
+- 🧠 AI model : [deepseek flash](https://www.deepseek.com/en/news/deepseek-v4-1-flash/) among others
+- 🏎️ ...accessed with [openrouter](https://openrouter.ai/)
+- ⛷️ ... using Matt Pollock's [skills](https://github.com/mattpocock/skills/).
 
