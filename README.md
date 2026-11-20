@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 **Working on:** [russian-reader](https://github.com/cognominal/russian-reader), a [SvelteKit](https://svelte.dev/docs/kit/introduction) web app that helps me learn Russian with texts pulled from kremlin.ru.
-- 🐚 **Long-term goal:** [rak](https://github.com/cognominal/rak/tree/rak), a shell mode for Raku supporting redirection from and to files and web pages. Very early stage; work happens in the `rak` branch. See the [roadmap](https://github.com/cognominal/rak/blob/rak/ROADMAP.md).
+- 🐚 **Long-term goal:** [rak](https://github.com/cognominal/rak/tree/rak), a shell mode for Raku supporting redirection from and to files and web pages. Very early stage; work happens in the `rak` branch. See the [roadmap](https://github.com/cognominal/rak/blob/rak/ROADMAP.md) and the [cheatsheet](https://github.com/cognominal/rak/blob/rak/CHEATSHEET.md).
 
 ### 🧰 Setup
 
